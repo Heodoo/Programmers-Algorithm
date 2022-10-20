@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:MultipleCalculator/MultipleCalculator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LeastCommonMultiple/LeastCommonMultiple.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ThreeMusketeers/ThreeMusketeers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ThreeMusketeers2/ThreeMusketeers2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:EndToEnd/EndToEnd.xcodeproj">
    </FileRef>
    <FileRef
