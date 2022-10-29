@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:DartGame/DartGame.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HanoiTower/HanoiTower.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MatrixMultiplication/MatrixMultiplication.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Cache/Cache.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MultipleCalculator/MultipleCalculator.xcodeproj">
    </FileRef>
    <FileRef
