@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ParkingFee/ParkingFee.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TwoOtherBit/TwoOtherBit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../pracSwiftUI/LongestPalindrome/LongestPalindrome.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:JustNowSong/JustNowSong.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:DartGame/DartGame.xcodeproj">
    </FileRef>
    <FileRef
